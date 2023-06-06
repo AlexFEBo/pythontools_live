@@ -1,2 +1,2 @@
 # pythontools_live
-Demo reop
+Demo repo for live course
